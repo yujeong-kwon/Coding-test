@@ -1,3 +1,4 @@
+#재귀 - 팩토리얼 구하기
 import sys 
 input = sys.stdin.readline
 
