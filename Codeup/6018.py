@@ -6,4 +6,4 @@ input = sys.stdin.readline
 time = input()
 h, m = time.split(sep=":")
 print(h, m, sep = ":")
-#print에서도 sep을 주면 그 값을 사이에 두고 값을 출력
+#print에서 sep을 주면 그 값을 사이에 두고 값을 출력
