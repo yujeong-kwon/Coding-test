@@ -3,5 +3,8 @@
 import sys
 input = sys.stdin.readline
 x = input().rstrip()
-for i in range (len(x)):
-    print(x[i])
+#for i in range (len(x)):
+#    print(x[i])
+
+for j in x:
+    print(j)
