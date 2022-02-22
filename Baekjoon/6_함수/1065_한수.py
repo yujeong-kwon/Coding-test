@@ -13,3 +13,5 @@ def hansu(n):
     return cnt
 
 print(hansu(int(input().rstrip())))
+
+#복습
