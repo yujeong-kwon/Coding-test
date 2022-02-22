@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-
+#i를 str로 바꾸고 map으로 정수로 변환해 list에 저장 
 def hansu(n):
     cnt = 0
     for i in range(1, n+1):
